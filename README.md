@@ -1,18 +1,22 @@
 <div align="center">
 
 # VALORANT TELEGRAM BOT
+
 </div>
 
 #### Clone this repository ✅
+
 ```md
 git clone https://github.com/Mindula-Dilthushan/valorant-tele-bot.git
 ```
+
 ###
 
 ![GitHub issues](https://img.shields.io/github/issues/Mindula-Dilthushan/valorant-tele-bot?&labelColor=black&color=eb3b5a&label=Issues&logo=issues&logoColor=black&style=for-the-badge)
 ![GitHub Contributions](https://img.shields.io/github/contributors/Mindula-Dilthushan/valorant-tele-bot?&labelColor=black&color=8854d0&style=for-the-badge)
 
 ### License 📝
+
 [![GitHub license](https://img.shields.io/github/license/Mindula-Dilthushan/valorant-tele-bot?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/Mindula-Dilthushan/valorant-tele-bot/blob/master/LICENSE)
 
 
@@ -25,7 +29,23 @@ git clone https://github.com/Mindula-Dilthushan/valorant-tele-bot.git
 
 </div>
 
+
+
+<div align="left">
+
+| Contributors 🤖                                     | 
+|-----------------------------------------------------|
+| [Alern23](https://github.com/Alern23)               |                      
+| [Olivia-Emma](https://github.com/Olivia-Emma)       |    
+| [Linking0](https://github.com/Linking0)             |
+| [Henry-Theodore](https://github.com/Henry-Theodore) |
+| [Noah-Oscar](https://github.com/Noah-Oscar)         |
+| [Lucas-Theodore](https://github.com/Lucas-Theodore) |
+
+</div>
+
 <div align="center"> 
 
 #### Author by [Mindula Dilthushan Manamperi](http://minduladilthushan.netlify.app/) ^_~
+
 </div>
