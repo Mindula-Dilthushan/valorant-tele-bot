@@ -1,6 +1,6 @@
 <div align="center">
 
-# VALORANT TELEGRAM BOT
+# Valorant Telegram Bot Application
 
 </div>
 
@@ -47,5 +47,4 @@ git clone https://github.com/Mindula-Dilthushan/valorant-tele-bot.git
 <div align="center"> 
 
 #### Author by [Mindula Dilthushan Manamperi](http://minduladilthushan.netlify.app/) ^_~
-
 </div>
